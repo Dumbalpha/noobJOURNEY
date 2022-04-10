@@ -1,2 +1,0 @@
-# noobJOURNEY
-CodingGeek
